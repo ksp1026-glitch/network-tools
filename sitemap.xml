@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://你的域名/</loc>
+    <loc>https://ksp1026-glitch.github.io/network-tools/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://你的域名/password</loc>
+    <loc>https://ksp1026-glitch.github.io/network-tools/password</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://你的域名/qrcode</loc>
+    <loc>https://ksp1026-glitch.github.io/network-tools/qrcode</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://你的域名/trim</loc>
+    <loc>https://ksp1026-glitch.github.io/network-tools/trim</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://你的域名/count</loc>
+    <loc>https://ksp1026-glitch.github.io/network-tools/count</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://你的域名/case</loc>
+    <loc>https://ksp1026-glitch.github.io/network-tools/case</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://你的域名/base</loc>
+    <loc>https://ksp1026-glitch.github.io/network-tools/base</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
